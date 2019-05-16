@@ -139,6 +139,7 @@ tags: { # <amp-state>
 }
 tags: {  # <amp-bind-macro>
   html_format: AMP
+  html_format: AMP4EMAIL
   html_format: ACTIONS
   tag_name: "AMP-BIND-MACRO"
   requires_extension: "amp-bind"
